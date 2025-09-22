@@ -41,3 +41,11 @@ a {
     background-color: #1f2937;
     padding: 20px 150px;
 }
+
+.body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
