@@ -47,11 +47,19 @@ a {
     flex-direction: column;
     align-items: center;
     gap: 50px;
-    margin-top: 50;
+    margin-top: 50px;
 }
 
 .content1, .content2, .content3 {
     background-color:  #e5e7eb;
     font-size: 36px;
     padding: 500px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
