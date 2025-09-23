@@ -54,6 +54,7 @@ a {
 .content1, .content2, .content3 {
     background-color:  #e5e7eb;
     font-size: 24px;
+    max-width: 1000px;
     
 }
 
