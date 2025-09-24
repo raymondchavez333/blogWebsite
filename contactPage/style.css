@@ -58,10 +58,10 @@ a {
 }
 
 .modal {
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 100px;
-    margin-bottom: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .info img {
