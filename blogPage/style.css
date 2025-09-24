@@ -55,6 +55,7 @@ a {
     background-color:  #e5e7eb;
     font-size: 24px;
     max-width: 1000px;
+    padding: 50px 50px;
     
 }
 
@@ -75,3 +76,15 @@ img {
     height: auto;
     width: 1000px;
 }
+
+#blog1, #blog2, #blog3 {
+    font-size: 36px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+p{
+   
+    text-align: justify;
+}
+
