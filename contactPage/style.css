@@ -78,7 +78,7 @@ a {
 .info-container {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 80px;
 }
 
 .title {
@@ -92,8 +92,10 @@ a {
     height: auto;
     width: 100px;
     padding-top: 60px;
+    padding-bottom: 65px;
 }
 
 #phone{
     padding-top: 50px;
+    padding-bottom: 50px;
 }
