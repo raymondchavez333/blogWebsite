@@ -87,3 +87,13 @@ a {
     font-weight: 900;
     padding-bottom: 30px;
 }
+
+#gmail, #phone{
+    height: auto;
+    width: 100px;
+    padding-top: 60px;
+}
+
+#phone{
+    padding-top: 50px;
+}
