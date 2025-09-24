@@ -42,22 +42,7 @@ a {
     padding: 20px 150px;
 }
 
-.content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
 
-.content1 {
-    background-color:  #e5e7eb;
-    font-size: 24px;
-    max-width: 1000px;
-    display: flex;
-    flex-direction: column;
-}
 
 .footer {
     text-align: center;
@@ -67,17 +52,38 @@ a {
     padding-bottom: 20px;
 }
 
-
-
-img {
-    
-    height: auto;
-    width: 300px;
-    align-self: center;
-    margin-top: 20px;
+#fb {
+    font-size: 18px;
+    color: #424242;
 }
 
-#fb {
-    font-size: 24px;
-    color: black;
+.modal {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.info img {
+    height: 200px;
+    width: 200px;
+}
+
+.info .description {
+    width: 200px;
+    font-size: 18px;
+    color: #424242;
+    
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.title {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    padding-bottom: 30px;
 }
